@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <a href="" target="_blank" rel="noreferrer"> Solution </a>
+- Solution URL: <a href="https://www.frontendmentor.io/solutions/responsive-landing-page-with-css-grid-GZ9p0jLinn" target="_blank" rel="noreferrer"> Solution </a>
 - Live Site URL: <a href="https://huddle-landiing-page.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
 
 ## My process
