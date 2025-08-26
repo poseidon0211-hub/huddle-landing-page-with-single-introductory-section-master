@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <a href="https://www.frontendmentor.io/solutions/single-price-grid-component-Wqqv8SgywG" target="_blank" rel="noreferrer"> Solution </a>
-- Live Site URL: <a href="https://silly-fenglisu-42439c.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
+- Solution URL: <a href="" target="_blank" rel="noreferrer"> Solution </a>
+- Live Site URL: <a href="https://huddle-landiing-page.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
 
 ## My process
 
